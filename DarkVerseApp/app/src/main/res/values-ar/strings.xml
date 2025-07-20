@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">عالم الظلام</string>
+    
+    <!-- Splash Screen -->
+    <string name="welcome_to_darkverse">مرحباً بك في عالم الظلام</string>
+    
+    <!-- Authentication -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    <string name="already_have_account">لديك حساب بالفعل؟</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    
+    <!-- Main Navigation -->
+    <string name="home">الرئيسية</string>
+    <string name="reels">الريلز</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="settings">الإعدادات</string>
+    
+    <!-- Posts -->
+    <string name="create_post">إنشاء منشور</string>
+    <string name="whats_on_your_mind">ما الذي تفكر فيه؟</string>
+    <string name="post">نشر</string>
+    <string name="like">إعجاب</string>
+    <string name="comment">تعليق</string>
+    <string name="share">مشاركة</string>
+    <string name="comments">التعليقات</string>
+    <string name="add_comment">أضف تعليق...</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="name">الاسم</string>
+    <string name="bio">النبذة التعريفية</string>
+    <string name="country">البلد</string>
+    <string name="gender">الجنس</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="save">حفظ</string>
+    <string name="posts">المنشورات</string>
+    <string name="followers">المتابعون</string>
+    <string name="following">المتابَعون</string>
+    
+    <!-- Admin Panel -->
+    <string name="admin_panel">لوحة التحكم</string>
+    <string name="users">المستخدمون</string>
+    <string name="delete_user">حذف المستخدم</string>
+    <string name="delete_post">حذف المنشور</string>
+    <string name="send_notification">إرسال إشعار</string>
+    <string name="notification_title">عنوان الإشعار</string>
+    <string name="notification_message">رسالة الإشعار</string>
+    <string name="send">إرسال</string>
+    
+    <!-- Language Settings -->
+    <string name="language">اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="kurdish">الكردية</string>
+    
+    <!-- User Ranks -->
+    <string name="beginner_demon">شيطان مبتدئ</string>
+    <string name="shadow_lord">سيد الظلال</string>
+    <string name="dark_master">سيد الظلام</string>
+    <string name="void_emperor">إمبراطور الفراغ</string>
+    <string name="nightmare_king">ملك الكوابيس</string>
+    
+    <!-- Stories -->
+    <string name="add_story">إضافة قصة</string>
+    <string name="your_story">قصتك</string>
+    <string name="view_story">عرض القصة</string>
+    
+    <!-- Media -->
+    <string name="select_image">اختيار صورة</string>
+    <string name="select_video">اختيار فيديو</string>
+    <string name="select_gif">اختيار صورة متحركة</string>
+    <string name="camera">الكاميرا</string>
+    <string name="gallery">المعرض</string>
+    
+    <!-- General -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">خطأ</string>
+    <string name="success">نجح</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">موافق</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="logout">تسجيل الخروج</string>
+    
+    <!-- Error Messages -->
+    <string name="error_email_required">البريد الإلكتروني مطلوب</string>
+    <string name="error_password_required">كلمة المرور مطلوبة</string>
+    <string name="error_password_mismatch">كلمات المرور غير متطابقة</string>
+    <string name="error_login_failed">فشل تسجيل الدخول</string>
+    <string name="error_registration_failed">فشل إنشاء الحساب</string>
+    <string name="error_network">خطأ في الشبكة</string>
+    
+    <!-- Success Messages -->
+    <string name="success_login">تم تسجيل الدخول بنجاح</string>
+    <string name="success_registration">تم إنشاء الحساب بنجاح</string>
+    <string name="success_post_created">تم إنشاء المنشور بنجاح</string>
+    <string name="success_profile_updated">تم تحديث الملف الشخصي بنجاح</string>
+    
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">فتح قائمة التنقل</string>
+    <string name="navigation_drawer_close">إغلاق قائمة التنقل</string>
+    <string name="nav_header_title">عالم الظلام</string>
+    <string name="nav_header_subtitle">مرحباً بك</string>
+    <string name="nav_header_desc">صورة التنقل</string>
+    
+    <!-- Empty States -->
+    <string name="no_posts_yet">لا توجد منشورات بعد</string>
+    <string name="no_comments_yet">لا توجد تعليقات بعد</string>
+    <string name="no_stories_yet">لا توجد قصص بعد</string>
+</resources>
+
